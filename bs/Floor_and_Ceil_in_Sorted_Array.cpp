@@ -39,6 +39,9 @@ int main(){
         }
     }
 
+    high = n-1;
+    low=0;
+
     while(low<=high){
         int mid=(low+high)/2;
 
