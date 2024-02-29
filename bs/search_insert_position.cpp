@@ -24,7 +24,7 @@ int main(){
     int low=0;
 
     ans=n;
-
+git
     while(low<=high){
         int mid=(low+high)/2;
 
